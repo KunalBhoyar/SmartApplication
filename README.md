@@ -100,21 +100,3 @@ Architecture Diagram
 
 
 
-### Team Member
-
-| NUID | Team Member       |
-|:-----:|---------------|
-| 002766036       | Anuj Kumar |
-| 002794258      |  Hitesh  Pant            |
-| 002773080      |  Kunal Bhoyar              |
-| 002772221      |  Snehashis Lenka              |
-
-
-WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK.
-
-
-
-
-
-
-
